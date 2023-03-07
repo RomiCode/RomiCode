@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hello, ✌ I'm Romina Bertello 
+## Web Developer Frontend junior and UX designer
 
-<!--
-**RomiCode/RomiCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Since I knew programming, I loved knowing everything that can be done with it, and that is why I consider myself curious to know new technologies. I am self-taught, organized and above all responsible.
 
-Here are some ideas to get you started:
+# 🎓 Education
+* **BOOTCAMP JAVASCRIPT FULLSTACK**- Guillermo Rodas
+* **UX DESIGNER** - Coursera
+* **FRONTEND**- Alura Latam
+* **COPYWRITING**- Redactium
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📍 Languages
+* **ENGLISH**- B2
+* **SPANISH**- Native
+
+# 🛠 Technologies
+* **HTML**
+* **CSS**
+* **JAVASCRIPT**
+* **NODE.JS**
+* **GIT**
+* **GITHBUB**
+* **FIGMA**
+* **MIRO**
+* **BUBBLE**
+
+# 📱 Contact me
+rominabertello1993@gmail.com
+
+# Some commands and their descriptions
+| COMMANDS | MEANING |
+| ------   | ------  |
+| CP       | allows us to copy files from the beginning and end |
+| LS       | shows us a list of files                           |
+| PWD      | shows us the directory path                        |
+| RM       | delete file                                        |
+| CL       | clean the terminal                                 |
